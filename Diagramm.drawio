@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T20:32:30.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ZyhrJseaKxRFdBkrMo6p" version="13.8.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-17T20:35:36.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="55YT1jiMF3xaV62HkRLz" version="13.8.0" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -306,7 +306,7 @@
           <mxGeometry x="800" y="345" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4XfR2tpZDgOkTaVhiKPz-6" value="Zeitspanne" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Jbo31aaUoDRXkJzaRvCV-1">
-          <mxGeometry x="810" y="790" width="140" height="50" as="geometry" />
+          <mxGeometry x="820" y="780" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4XfR2tpZDgOkTaVhiKPz-7" value="nimmt vor" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Jbo31aaUoDRXkJzaRvCV-1">
           <mxGeometry x="320" y="150" width="100" height="45" as="geometry" />
@@ -339,7 +339,16 @@
           <mxGeometry x="990" y="740" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HOFWm5PVGOar3lkH7BoQ-8" value="PLZ" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Jbo31aaUoDRXkJzaRvCV-1">
-          <mxGeometry x="630" y="890" width="100" height="40" as="geometry" />
+          <mxGeometry x="670" y="1030" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HOFWm5PVGOar3lkH7BoQ-9" value="Adresse" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Jbo31aaUoDRXkJzaRvCV-1">
+          <mxGeometry x="600" y="940" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HOFWm5PVGOar3lkH7BoQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Jbo31aaUoDRXkJzaRvCV-1" source="HOFWm5PVGOar3lkH7BoQ-8" target="HOFWm5PVGOar3lkH7BoQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HOFWm5PVGOar3lkH7BoQ-12" value="besitzt" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Jbo31aaUoDRXkJzaRvCV-1">
+          <mxGeometry x="620" y="870" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
