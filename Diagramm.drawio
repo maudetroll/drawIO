@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T19:18:39.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="a0Bkg5NywcaZrvwmbqP3" version="13.8.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-17T19:19:04.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="JU7IabdnTpD828BIwFzQ" version="13.8.0" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="7aq38jhjHyp_BOnaPL3p-14" value="Genossenschaft" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Jbo31aaUoDRXkJzaRvCV-1">
           <mxGeometry x="330" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7aq38jhjHyp_BOnaPL3p-15" value="sdfasfdsa" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="Jbo31aaUoDRXkJzaRvCV-1">
+          <mxGeometry x="280" y="410" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
