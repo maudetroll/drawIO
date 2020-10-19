@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T18:32:35.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="oEip2PdIDTSpN-GkFXbi" version="13.8.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-19T18:43:11.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="FIhCsPgk7GRDqHO6D-Ji" version="13.8.0" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -38,7 +38,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Hcfd_RlDqi_PxLag4vG8" name="Gombi">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2557" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yDdMMgMcFxrPVq5dERua-0" />
         <mxCell id="yDdMMgMcFxrPVq5dERua-1" parent="yDdMMgMcFxrPVq5dERua-0" />
@@ -1367,7 +1367,7 @@
         <mxCell id="tD8isiov2DlJuCi4TBRD-93" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Jbo31aaUoDRXkJzaRvCV-1" vertex="1">
           <mxGeometry x="610" y="1595" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tD8isiov2DlJuCi4TBRD-95" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Jbo31aaUoDRXkJzaRvCV-1" vertex="1">
+        <mxCell id="tD8isiov2DlJuCi4TBRD-95" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Jbo31aaUoDRXkJzaRvCV-1" vertex="1">
           <mxGeometry x="610" y="1520" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tD8isiov2DlJuCi4TBRD-96" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Jbo31aaUoDRXkJzaRvCV-1" vertex="1">
