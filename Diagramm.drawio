@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T14:01:34.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="M88ESjIzNW4J0TRXTWbU" version="13.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-24T11:47:54.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Su6JVNYrvbknf27eRKKT" version="13.8.1" type="github" pages="7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1083,7 +1083,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6dbYe89JqZ4l0s1XzsuT" name="Lukas L">
-    <mxGraphModel dx="2036" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0wNZA4T8e9i71Ed3F0Qa-0" />
         <mxCell id="0wNZA4T8e9i71Ed3F0Qa-1" parent="0wNZA4T8e9i71Ed3F0Qa-0" />
@@ -1241,7 +1241,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWqH_0KxVD5M6Dfk6q4r-33" value="beinhaltet" style="rhombus;whiteSpace=wrap;html=1;" parent="0wNZA4T8e9i71Ed3F0Qa-1" vertex="1">
+        <mxCell id="aWqH_0KxVD5M6Dfk6q4r-33" value="part of" style="rhombus;whiteSpace=wrap;html=1;" parent="0wNZA4T8e9i71Ed3F0Qa-1" vertex="1">
           <mxGeometry x="460" y="535" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aWqH_0KxVD5M6Dfk6q4r-34" value="n" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="0wNZA4T8e9i71Ed3F0Qa-1" source="aWqH_0KxVD5M6Dfk6q4r-4" target="aWqH_0KxVD5M6Dfk6q4r-33" edge="1">
@@ -1258,10 +1258,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWqH_0KxVD5M6Dfk6q4r-36" value="beinhaltet" style="rhombus;whiteSpace=wrap;html=1;" parent="0wNZA4T8e9i71Ed3F0Qa-1" vertex="1">
+        <mxCell id="aWqH_0KxVD5M6Dfk6q4r-36" value="part of" style="rhombus;whiteSpace=wrap;html=1;" parent="0wNZA4T8e9i71Ed3F0Qa-1" vertex="1">
           <mxGeometry x="640" y="414" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aWqH_0KxVD5M6Dfk6q4r-37" value="beinhaltet" style="rhombus;whiteSpace=wrap;html=1;" parent="0wNZA4T8e9i71Ed3F0Qa-1" vertex="1">
+        <mxCell id="aWqH_0KxVD5M6Dfk6q4r-37" value="part of" style="rhombus;whiteSpace=wrap;html=1;" parent="0wNZA4T8e9i71Ed3F0Qa-1" vertex="1">
           <mxGeometry x="640" y="200" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aWqH_0KxVD5M6Dfk6q4r-38" value="1" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="0wNZA4T8e9i71Ed3F0Qa-1" source="aWqH_0KxVD5M6Dfk6q4r-18" target="aWqH_0KxVD5M6Dfk6q4r-37" edge="1">
