@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T15:52:52.372Z" agent="5.0 (Windows)" etag="HGGAQDC53-Qmi-FTCJLX" version="13.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-26T15:57:30.035Z" agent="5.0 (Windows)" etag="5U-OY0Ad_sD63DhllYAO" version="13.8.1" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2260,7 +2260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ROBBP4PnoIXtQQXhhheo" name="Gesamtansicht">
-    <mxGraphModel dx="4722" dy="5444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5670" dy="5953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="4xiiMMLkSmV1VKUDJHgJ-0" />
         <mxCell id="4xiiMMLkSmV1VKUDJHgJ-1" parent="4xiiMMLkSmV1VKUDJHgJ-0" />
@@ -3532,7 +3532,7 @@
           <mxGeometry x="857" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Um__eRtj9h_AfLM5RsQC-0" value="Fahrzeuge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
-          <mxGeometry x="320" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="439" y="-270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9cBrxdy1S5oZz5BA-tX-0" value="part of zu Fahrzeugtyp" style="rounded=0;whiteSpace=wrap;html=1;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="420" y="240" width="120" height="90" as="geometry" />
@@ -3769,7 +3769,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rnb2l3TcjAAND2Nk574c-0" value="Fahrzeuge( &lt;u&gt;FID&lt;/u&gt;,Zulassung, Frontairbags, Benzinverbrauch, Reservierungsstatus, Sitzplätze,Kilometerstand,KfZ-Versicherung)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="70" y="-120" width="840" height="60" as="geometry" />
+          <mxGeometry x="70" y="-180" width="840" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
