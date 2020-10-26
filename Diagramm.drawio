@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T17:37:29.046Z" agent="5.0 (Windows)" etag="iIX65Axwum3ADOc6n0lr" version="13.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-26T17:49:45.892Z" agent="5.0 (Windows)" etag="UQqoXdNgiGoQqCJhre9Y" version="13.8.1" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2260,7 +2260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ROBBP4PnoIXtQQXhhheo" name="Gesamtansicht">
-    <mxGraphModel dx="5670" dy="5953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="7363" dy="6861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="4xiiMMLkSmV1VKUDJHgJ-0" />
         <mxCell id="4xiiMMLkSmV1VKUDJHgJ-1" parent="4xiiMMLkSmV1VKUDJHgJ-0" />
@@ -3476,7 +3476,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aflz5U0Og_2KdQ5OoDiE" name="Relationsschema">
-    <mxGraphModel dx="2500" dy="2067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3671" dy="2695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-0" />
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-1" parent="gfaQ38QmpzVvjtNMR--Q-0" />
@@ -3500,8 +3500,8 @@
         </mxCell>
         <mxCell id="TESpcHrnkWvbMHk4BEnI-17" value="" style="endArrow=none;html=1;strokeWidth=10;" parent="gfaQ38QmpzVvjtNMR--Q-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="1410" as="sourcePoint" />
-            <mxPoint x="1600" y="1410" as="targetPoint" />
+            <mxPoint x="41.5" y="1690" as="sourcePoint" />
+            <mxPoint x="1621.5" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rnb2l3TcjAAND2Nk574c-0" value="Fahrzeuge( &lt;u style=&quot;font-size: 12px;&quot;&gt;FID&lt;/u&gt;,Zulassung, Frontairbags, Benzinverbrauch, Reservierungsstatus, Sitzplätze,Kilometerstand,KfZ-Versicherung)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=12;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
@@ -3777,8 +3777,17 @@
         <mxCell id="TESpcHrnkWvbMHk4BEnI-15" value="RA_3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TESpcHrnkWvbMHk4BEnI-14" vertex="1">
           <mxGeometry width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="nlzIj6rlNXyx3k5UQeK1-0" value="Vermieter(&lt;u&gt;VID&lt;/u&gt;,SID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="120" y="1080" width="670" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixtHMDrPjUcKSbg4vBZq-0" value="Privatperson(SID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="140" y="1169" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixtHMDrPjUcKSbg4vBZq-1" value="Firma(SID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="140" y="1250" width="650" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="pYWcAPK7JgRHOdmYaVv2-0" value="Relationsschema Standort" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
-          <mxGeometry x="890" y="1090" width="539" height="110" as="geometry" />
+          <mxGeometry x="-660" y="1300" width="539" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pYWcAPK7JgRHOdmYaVv2-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pYWcAPK7JgRHOdmYaVv2-0" vertex="1">
           <mxGeometry y="30" width="539" height="40" as="geometry" />
@@ -3810,14 +3819,14 @@
         <mxCell id="pYWcAPK7JgRHOdmYaVv2-13" value="buchbar" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pYWcAPK7JgRHOdmYaVv2-9" vertex="1">
           <mxGeometry x="380" width="159" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nlzIj6rlNXyx3k5UQeK1-0" value="Vermieter(SID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="120" y="1080" width="670" height="60" as="geometry" />
+        <mxCell id="44JprMJWiaOmPWisEfC4-0" value="Reservierung (&lt;u&gt;SID, &lt;/u&gt;Benutzer, Zeit, Sonderwünsche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="100" y="1330" width="690" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ixtHMDrPjUcKSbg4vBZq-0" value="Privatperson(SID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="140" y="1169" width="650" height="60" as="geometry" />
+        <mxCell id="urGafdBMPfHJnk9U6Bxa-0" value="Zeitspanne(&lt;u&gt;SID&lt;/u&gt;,Tageszeit, Wochenzeit)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="120" y="1420" width="670" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ixtHMDrPjUcKSbg4vBZq-1" value="Firma(SID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="140" y="1250" width="650" height="60" as="geometry" />
+        <mxCell id="K5nnCNkPqcoaGN29unQa-0" value="Fahrzeug(&lt;u&gt;SID&lt;/u&gt;) -&amp;gt;Rest ist bereits implementiert" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="100" y="1510" width="690" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
