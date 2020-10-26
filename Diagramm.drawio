@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T16:30:32.073Z" agent="5.0 (Windows)" etag="drI7B1OfFRwBonWqk6wW" version="13.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-26T16:32:46.271Z" agent="5.0 (Windows)" etag="AOZXq0OC4g4xaMO0cIy5" version="13.8.1" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2260,7 +2260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ROBBP4PnoIXtQQXhhheo" name="Gesamtansicht">
-    <mxGraphModel dx="5670" dy="5953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4485" dy="5317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="4xiiMMLkSmV1VKUDJHgJ-0" />
         <mxCell id="4xiiMMLkSmV1VKUDJHgJ-1" parent="4xiiMMLkSmV1VKUDJHgJ-0" />
@@ -2807,7 +2807,7 @@
             <mxPoint x="460" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mRBfPx6nqiU9Moerest8-9" value="Straßenkreuzer/Limousine" style="whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="4xiiMMLkSmV1VKUDJHgJ-1" vertex="1">
+        <mxCell id="mRBfPx6nqiU9Moerest8-9" value="Limousine" style="whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="4xiiMMLkSmV1VKUDJHgJ-1" vertex="1">
           <mxGeometry x="545" y="-760" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5bpQW_oN0bu11jgScbQu-1" value="1" style="endArrow=none;html=1;entryX=0.146;entryY=0.985;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="4xiiMMLkSmV1VKUDJHgJ-1" source="5bpQW_oN0bu11jgScbQu-2" target="oF3rZ9rO1RtUX2LVrzim-1" edge="1">
@@ -3445,7 +3445,7 @@
             <mxPoint x="1754.25" y="-490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zXQqCEVFOdAxAlVuH__F-1" value="Cabrio" style="whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="4xiiMMLkSmV1VKUDJHgJ-1" vertex="1">
+        <mxCell id="zXQqCEVFOdAxAlVuH__F-1" value="&lt;div&gt;Straßenkreuzer/&lt;/div&gt;&lt;div&gt;Cabrio&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="4xiiMMLkSmV1VKUDJHgJ-1" vertex="1">
           <mxGeometry x="412" y="-760" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXQqCEVFOdAxAlVuH__F-2" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="4xiiMMLkSmV1VKUDJHgJ-1" source="zXQqCEVFOdAxAlVuH__F-1" target="oF3rZ9rO1RtUX2LVrzim-51" edge="1">
@@ -3476,7 +3476,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aflz5U0Og_2KdQ5OoDiE" name="Relationsschema">
-    <mxGraphModel dx="2500" dy="2067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="2441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-0" />
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-1" parent="gfaQ38QmpzVvjtNMR--Q-0" />
@@ -3699,10 +3699,10 @@
         <mxCell id="LWp-ib3iVtrtqzbygvJt-19" value="Vollkasko" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="5VoU9N78gm-fTmU-Ib5_-5" vertex="1">
           <mxGeometry x="857" width="159" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-3" value="Pickups ( &lt;u&gt;FID&lt;/u&gt;, offene Ladefläche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-3" value="Pickups (&lt;u&gt;FID&lt;/u&gt;, offene Ladefläche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
           <mxGeometry x="70" y="170" width="840" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-4" value="Straßenkreuzer (Zulassung)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-4" value="Straßenkreuzer/Cabrio(&lt;u&gt;FID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
           <mxGeometry x="70" y="260" width="840" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHSWm9cz76ixtAnAimp8-0" value="Relationsschema Lastwagen " style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
@@ -3786,11 +3786,8 @@
         <mxCell id="9OApp1pS1UV8DOZImF5y-4" value="RA- CE 105" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="9OApp1pS1UV8DOZImF5y-3" vertex="1">
           <mxGeometry width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-5" value="Kombi (Zulassung, Rückbank, Kindertransport möglich)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-5" value="Kombi ( &lt;u&gt;FID&lt;/u&gt;, Rückbank, Kindertransport möglich)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
           <mxGeometry x="70" y="350" width="840" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-6" value="Kombi (Zulassung, Rückbank, Kindertransport möglich)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="70" y="440" width="840" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
