@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T16:32:46.271Z" agent="5.0 (Windows)" etag="AOZXq0OC4g4xaMO0cIy5" version="13.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-26T16:33:46.819Z" agent="5.0 (Windows)" etag="bcA5o-hcu5KZHmwCQWjv" version="13.8.1" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2260,7 +2260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ROBBP4PnoIXtQQXhhheo" name="Gesamtansicht">
-    <mxGraphModel dx="4485" dy="5317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5331" dy="5771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="4xiiMMLkSmV1VKUDJHgJ-0" />
         <mxCell id="4xiiMMLkSmV1VKUDJHgJ-1" parent="4xiiMMLkSmV1VKUDJHgJ-0" />
@@ -3476,7 +3476,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aflz5U0Og_2KdQ5OoDiE" name="Relationsschema">
-    <mxGraphModel dx="3197" dy="2441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-0" />
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-1" parent="gfaQ38QmpzVvjtNMR--Q-0" />
@@ -3788,6 +3788,9 @@
         </mxCell>
         <mxCell id="Mi62uGLIBwm5gdYZ9Du9-5" value="Kombi ( &lt;u&gt;FID&lt;/u&gt;, Rückbank, Kindertransport möglich)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
           <mxGeometry x="70" y="350" width="840" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-eJukcEQBU25gf8ZFRey-0" value="Kleinstwagen(&lt;u&gt;FID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="70" y="440" width="840" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
