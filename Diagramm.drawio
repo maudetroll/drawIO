@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T15:20:17.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="47rIltj50Quvrjq1NVnN" version="13.8.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-27T15:28:00.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="bc8Ft7LfocPWg4FgSLGO" version="13.8.4" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1662" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -3494,7 +3494,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aflz5U0Og_2KdQ5OoDiE" name="Relationsschema">
-    <mxGraphModel dx="4424" dy="2456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6403" dy="3375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-0" />
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-1" parent="gfaQ38QmpzVvjtNMR--Q-0" />
@@ -3777,9 +3777,6 @@
         <mxCell id="SR6JfTTUePnxTQXpKmvV-0" value="Benzinkosten (&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="890" y="100" width="700" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QQ46S320BvAArnty27jZ-1" value="Mitglied" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;strokeColor=#2D7600;fontSize=25;fontColor=#ffffff;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="641" y="1950" width="381" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="QQ46S320BvAArnty27jZ-2" value="Mitglied (&lt;u&gt;Mitgliedsnummer&lt;/u&gt;, Bankverbindung, unfallfreie Jahre, Führerschein, Alter, Kennwort, Postadresse, Heimatstandort)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
           <mxGeometry x="-640" y="2480" width="660" height="60" as="geometry" />
         </mxCell>
@@ -3793,7 +3790,7 @@
           <mxGeometry x="-200" y="2370" width="255" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ46S320BvAArnty27jZ-7" value="Rechnung (&lt;u&gt;RID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="-880" y="2680" width="125" height="60" as="geometry" />
+          <mxGeometry x="-920" y="2840" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ46S320BvAArnty27jZ-8" value="hat Zugang zu Belegungsplan (&lt;u&gt;Mitgliedsnummer,&lt;/u&gt;&amp;nbsp;&lt;u&gt;BelegungsplanID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
           <mxGeometry x="-640" y="2580" width="380" height="60" as="geometry" />
@@ -3840,26 +3837,38 @@
         <mxCell id="QQ46S320BvAArnty27jZ-23" value="hält Anteil (Mitgliedsnummer, AID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
           <mxGeometry x="250" y="2320" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QQ46S320BvAArnty27jZ-24" value="erstell Zentrale (&lt;u&gt;RID&lt;/u&gt;, ZID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="-920" y="2780" width="150" height="60" as="geometry" />
+        <mxCell id="QQ46S320BvAArnty27jZ-24" value="erstell Rechnung (&lt;u&gt;RID&lt;/u&gt;, ZID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="-920" y="2940" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ46S320BvAArnty27jZ-25" value="Genossenschaftszentrale (&lt;u&gt;ZID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="-920" y="2870" width="190" height="60" as="geometry" />
+          <mxGeometry x="-920" y="3040" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ46S320BvAArnty27jZ-26" value="stellt Daten zur Verfügung (&lt;u&gt;NDID&lt;/u&gt;, ZID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="-690" y="2870" width="150" height="60" as="geometry" />
+          <mxGeometry x="-690" y="3040" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ46S320BvAArnty27jZ-27" value="Nutzungsdateneinheit (&lt;u&gt;NDID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="-470" y="2870" width="190" height="60" as="geometry" />
+          <mxGeometry x="-470" y="3040" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ46S320BvAArnty27jZ-28" value="Analyse (&lt;u&gt;ANID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="-30" y="2870" width="190" height="60" as="geometry" />
+          <mxGeometry x="-30" y="3040" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ46S320BvAArnty27jZ-29" value="ruft Daten ab (&lt;u&gt;NDID&lt;/u&gt;, &lt;u&gt;ANID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="-230" y="2870" width="150" height="60" as="geometry" />
+          <mxGeometry x="-230" y="3040" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ46S320BvAArnty27jZ-30" value="veranlasst Analyse (&lt;u&gt;ANID&lt;/u&gt;, GID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="210" y="2870" width="180" height="60" as="geometry" />
+          <mxGeometry x="210" y="3040" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ46S320BvAArnty27jZ-32" value="Zeitspanne (&lt;u&gt;ZeitID&lt;/u&gt;, Tageszeit, Wochentag)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="-665" y="2840" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ46S320BvAArnty27jZ-33" value="Genossenschaft (GID)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="460" y="3040" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ46S320BvAArnty27jZ-34" value="steuert Standort (&lt;u&gt;SID&lt;/u&gt;, GID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="710" y="3040" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ46S320BvAArnty27jZ-35" value="steuert Fahrzeug (&lt;u&gt;FID&lt;/u&gt;, GID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+          <mxGeometry x="710" y="3120" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
