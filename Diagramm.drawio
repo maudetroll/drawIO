@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T21:29:03.862Z" agent="5.0 (Windows)" etag="puFjyp__r-uraoaR4v78" version="13.8.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-27T21:29:46.969Z" agent="5.0 (Windows)" etag="wX1tPFoSuomeXYjwrktN" version="13.8.5" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -3494,7 +3494,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aflz5U0Og_2KdQ5OoDiE" name="Relationsschema">
-    <mxGraphModel dx="6544" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4851" dy="1272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-0" />
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-1" parent="gfaQ38QmpzVvjtNMR--Q-0" />
@@ -3932,13 +3932,14 @@
         <mxCell id="iAow51kzfHVjEQegadtg-64" value="schließt Kollektivvertrag ab (&lt;u&gt;Mitgliedsnummer&lt;/u&gt;, KVID)" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
           <mxGeometry x="600" y="2720" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WLDRP77qhP9BfxuaHHBz-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.731;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="iAow51kzfHVjEQegadtg-65" target="lYXUDkdyR_wJwjTMNNHq-1">
+        <mxCell id="WLDRP77qhP9BfxuaHHBz-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="iAow51kzfHVjEQegadtg-65">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="1820" as="targetPoint" />
+            <mxPoint x="375" y="1881" as="targetPoint" />
             <Array as="points">
               <mxPoint x="520" y="2440" />
-              <mxPoint x="520" y="1800" />
-              <mxPoint x="375" y="1800" />
+              <mxPoint x="520" y="1910" />
+              <mxPoint x="375" y="1910" />
+              <mxPoint x="375" y="1881" />
             </Array>
           </mxGeometry>
         </mxCell>
