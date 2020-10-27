@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T17:34:08.247Z" agent="5.0 (Windows)" etag="HI0kfa_uHHOH1Iawe6AV" version="13.8.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-27T17:36:38.568Z" agent="5.0 (Windows)" etag="BhhTnvC6iKZ06Fzu2_pQ" version="13.8.5" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -3494,7 +3494,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aflz5U0Og_2KdQ5OoDiE" name="Relationsschema">
-    <mxGraphModel dx="6544" dy="3349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3050" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-0" />
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-1" parent="gfaQ38QmpzVvjtNMR--Q-0" />
@@ -3532,7 +3532,7 @@
         <mxCell id="Rnb2l3TcjAAND2Nk574c-0" value="Fahrzeuge( &lt;u style=&quot;font-size: 12px;&quot;&gt;FID&lt;/u&gt;,Zulassung, Frontairbags, Benzinverbrauch, Reservierungsstatus, Sitzplätze,Kilometerstand,KfZ-Versicherung)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=12;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-2067" y="2540" width="710" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-0" value="Kleinbus/Mini-Van( &lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;,Rückbank,Kindertransport möglich)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-0" value="Kleinbus/Mini-Van( &lt;u&gt;FID&lt;/u&gt;,Rückbank,Kindertransport möglich)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-790" y="1720" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7TVioHqc3OL0mXDdEv6b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="Mi62uGLIBwm5gdYZ9Du9-1" target="Mi62uGLIBwm5gdYZ9Du9-2">
@@ -3541,22 +3541,22 @@
         <mxCell id="7TVioHqc3OL0mXDdEv6b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="Mi62uGLIBwm5gdYZ9Du9-1" target="Mi62uGLIBwm5gdYZ9Du9-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-1" value="Lastwagen(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-1" value="Lastwagen(&lt;u&gt;FID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-1860" y="2020" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-2" value="Geschlossener Transporter (&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-2" value="Geschlossener Transporter (&lt;u&gt;FID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-2120" y="1860" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-3" value="Pickups (&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;, offene Ladefläche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-3" value="Pickups (&lt;u&gt;FID&lt;/u&gt;, offene Ladefläche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-1840" y="1860" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-4" value="Straßenkreuzer/Cabrio(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-4" value="Straßenkreuzer/Cabrio(&lt;u&gt;FID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-1150" y="1860" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-5" value="Kombi ( &lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;, Rückbank, Kindertransport möglich)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="Mi62uGLIBwm5gdYZ9Du9-5" value="Kombi ( &lt;u&gt;FID&lt;/u&gt;, Rückbank, Kindertransport möglich)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-950" y="1860" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-eJukcEQBU25gf8ZFRey-0" value="Kleinstwagen(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="-eJukcEQBU25gf8ZFRey-0" value="Kleinstwagen(FID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-620" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7TVioHqc3OL0mXDdEv6b-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="HZk5UKMRDiB2i-ag--rx-0">
@@ -3584,10 +3584,10 @@
         <mxCell id="7TVioHqc3OL0mXDdEv6b-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="HZk5UKMRDiB2i-ag--rx-0" target="Mi62uGLIBwm5gdYZ9Du9-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZk5UKMRDiB2i-ag--rx-0" value="Personenkraftwagen(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="HZk5UKMRDiB2i-ag--rx-0" value="Personenkraftwagen(&lt;u&gt;FID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-970" y="2020" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oYoDKnqt5WFCGqEMrqnO-0" value="Limousine(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="oYoDKnqt5WFCGqEMrqnO-0" value="Limousine(&lt;u&gt;FID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-440" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lYXUDkdyR_wJwjTMNNHq-0" value="Standort" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontSize=25;fontColor=#ffffff;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
@@ -3632,7 +3632,7 @@
         <mxCell id="TuK5P4iI3DAtYMO3qkGa-0" value="Boardcomputer(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;, Gefahrene Kilometer, Mobilfunknetz, Fahrzeit)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-1925" y="3040" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nD4JE9bK0Ifhy5xIXxVv-0" value="Reservierung&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;(FID&lt;/span&gt;&lt;u&gt;,&lt;/u&gt; Benutzer, Zeit, Sonderwünsche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="nD4JE9bK0Ifhy5xIXxVv-0" value="Reservierung&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;(&lt;/span&gt;&lt;u&gt;FID&lt;/u&gt;&lt;u&gt;,&lt;/u&gt; Benutzer, Zeit, Sonderwünsche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-1647" y="2020" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="emf2H_ZODe7FgerTZihy-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="wEL3pHzslP8i504zAIYg-0" target="SR6JfTTUePnxTQXpKmvV-0">
