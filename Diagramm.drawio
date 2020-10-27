@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T11:19:41.405Z" agent="5.0 (Windows)" etag="JZHx7xrej0tmKwO7ewor" version="13.8.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-27T11:21:17.570Z" agent="5.0 (Windows)" etag="UeB-t7KZ3rUr6xG6A189" version="13.8.3" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -3494,7 +3494,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aflz5U0Og_2KdQ5OoDiE" name="Relationsschema">
-    <mxGraphModel dx="1640" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3671" dy="2695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-0" />
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-1" parent="gfaQ38QmpzVvjtNMR--Q-0" />
@@ -3744,25 +3744,25 @@
         <mxCell id="xvQJiyjQPDqY6Z_OF8RT-0" value="Fahrzeugtyp(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="70" y="-160" width="710" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_lDuHoZL4kqJnWiBQkf2-0" value="Parkplatz (&lt;u&gt;SID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="_lDuHoZL4kqJnWiBQkf2-0" value="Parkplatz (&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;SID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="100" y="1000" width="690" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nlzIj6rlNXyx3k5UQeK1-0" value="Vermieter(&lt;u&gt;VID&lt;/u&gt;,SID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="nlzIj6rlNXyx3k5UQeK1-0" value="Vermieter(&lt;u&gt;VID&lt;/u&gt;,&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;SID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="120" y="1080" width="670" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ixtHMDrPjUcKSbg4vBZq-0" value="Privatperson(SID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="ixtHMDrPjUcKSbg4vBZq-0" value="Privatperson(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;SID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="140" y="1169" width="650" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ixtHMDrPjUcKSbg4vBZq-1" value="Firma(SID)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="ixtHMDrPjUcKSbg4vBZq-1" value="Firma(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;SID&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="140" y="1250" width="650" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="44JprMJWiaOmPWisEfC4-0" value="Reservierung (&lt;u&gt;SID, &lt;/u&gt;Benutzer, Zeit, Sonderwünsche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="44JprMJWiaOmPWisEfC4-0" value="Reservierung (&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;SID&lt;/span&gt;&lt;u&gt;, &lt;/u&gt;Benutzer, Zeit, Sonderwünsche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="100" y="1330" width="690" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="urGafdBMPfHJnk9U6Bxa-0" value="Zeitspanne(&lt;u&gt;SID&lt;/u&gt;,Tageszeit, Wochenzeit)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="urGafdBMPfHJnk9U6Bxa-0" value="Zeitspanne(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;SID&lt;/span&gt;,Tageszeit, Wochenzeit)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="120" y="1420" width="670" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K5nnCNkPqcoaGN29unQa-0" value="Fahrzeug(&lt;u&gt;SID&lt;/u&gt;) -&amp;gt;Rest ist bereits implementiert" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
+        <mxCell id="K5nnCNkPqcoaGN29unQa-0" value="Fahrzeug(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;SID&lt;/span&gt;) -&amp;gt;Rest ist bereits implementiert" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="100" y="1510" width="690" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TuK5P4iI3DAtYMO3qkGa-0" value="Boardcomputer(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;, Gefahrene Kilometer, Mobilfunknetz, Fahrzeit)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
