@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T21:16:04.566Z" agent="5.0 (Windows)" etag="4ao-lLNpXubvSwvxlqWI" version="13.8.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-27T21:29:03.862Z" agent="5.0 (Windows)" etag="puFjyp__r-uraoaR4v78" version="13.8.5" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -3494,7 +3494,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aflz5U0Og_2KdQ5OoDiE" name="Relationsschema">
-    <mxGraphModel dx="7221" dy="2543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6544" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-0" />
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-1" parent="gfaQ38QmpzVvjtNMR--Q-0" />
@@ -3508,16 +3508,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYpA-OVuxNh8nngfoG4B-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="Rnb2l3TcjAAND2Nk574c-0" target="44JprMJWiaOmPWisEfC4-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-598" y="2070" />
-              <mxPoint x="-598" y="2020" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Rnb2l3TcjAAND2Nk574c-0" value="Fahrzeuge( &lt;u style=&quot;font-size: 12px;&quot;&gt;FID&lt;/u&gt;,Zulassung, Frontairbags, Benzinverbrauch, Reservierungsstatus, Sitzplätze,Kilometerstand,KfZ-Versicherung)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=12;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
-          <mxGeometry x="-2067" y="2040" width="710" height="60" as="geometry" />
+          <mxGeometry x="-2067" y="2000" width="710" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mi62uGLIBwm5gdYZ9Du9-0" value="Kleinbus/Mini-Van( &lt;u&gt;FID&lt;/u&gt;,Rückbank,Kindertransport möglich)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-1357.5" y="1340" width="350" height="60" as="geometry" />
@@ -3525,8 +3517,13 @@
         <mxCell id="7TVioHqc3OL0mXDdEv6b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="Mi62uGLIBwm5gdYZ9Du9-1" target="Mi62uGLIBwm5gdYZ9Du9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7TVioHqc3OL0mXDdEv6b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="Mi62uGLIBwm5gdYZ9Du9-1" target="Mi62uGLIBwm5gdYZ9Du9-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="61s43QEBEpE4Pp2KxA_D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=1.044;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="Mi62uGLIBwm5gdYZ9Du9-1" target="Mi62uGLIBwm5gdYZ9Du9-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1945" y="1660" />
+              <mxPoint x="-1945" y="1533" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Mi62uGLIBwm5gdYZ9Du9-1" value="Lastwagen(&lt;u&gt;FID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-2187.5" y="1630" width="110" height="60" as="geometry" />
@@ -3535,7 +3532,7 @@
           <mxGeometry x="-2447.5" y="1470" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mi62uGLIBwm5gdYZ9Du9-3" value="Pickups (&lt;u&gt;FID&lt;/u&gt;, offene Ladefläche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
-          <mxGeometry x="-2167.5" y="1470" width="210" height="60" as="geometry" />
+          <mxGeometry x="-2050" y="1470" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mi62uGLIBwm5gdYZ9Du9-4" value="Straßenkreuzer/Cabrio(&lt;u&gt;FID&lt;/u&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-1717.5" y="1480" width="170" height="60" as="geometry" />
@@ -3627,8 +3624,11 @@
         <mxCell id="9LJVATr60cYicYqCNMzt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="44JprMJWiaOmPWisEfC4-0" target="lYXUDkdyR_wJwjTMNNHq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="61s43QEBEpE4Pp2KxA_D-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="44JprMJWiaOmPWisEfC4-0" target="Rnb2l3TcjAAND2Nk574c-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="44JprMJWiaOmPWisEfC4-0" value="Reservierung (&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;SID&lt;/span&gt;&lt;u&gt;,&lt;/u&gt;Benutzer, Zeit, Sonderwünsche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
-          <mxGeometry x="160" y="1990" width="300" height="60" as="geometry" />
+          <mxGeometry x="160" y="2000" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l8g95qmGg4TzKgKYVbj1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="TuK5P4iI3DAtYMO3qkGa-0" target="l8g95qmGg4TzKgKYVbj1-0">
           <mxGeometry relative="1" as="geometry" />
@@ -4197,7 +4197,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_3Z_0zojhYaBwswYlcGE-1" value="vermietet an" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
+        <mxCell id="_3Z_0zojhYaBwswYlcGE-1" value="&lt;span style=&quot;background-color: rgb(255 , 38 , 67)&quot;&gt;vermietetet an&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
           <mxGeometry x="270" y="1530" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1JhwFLGRPVr9GGE66vPs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="gfaQ38QmpzVvjtNMR--Q-1" source="1JhwFLGRPVr9GGE66vPs-1" target="lYXUDkdyR_wJwjTMNNHq-1">
@@ -4212,7 +4212,7 @@
           <mxGeometry x="640" y="3180" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ECN72SRdjKWJZCaS1vSb-0" value="kümmert sich &lt;span style=&quot;background-color: rgb(255 , 10 , 10)&quot;&gt;???&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gfaQ38QmpzVvjtNMR--Q-1">
-          <mxGeometry x="-485" y="2300" width="255" height="60" as="geometry" />
+          <mxGeometry x="-530" y="2300" width="255" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
