@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T08:11:38.072Z" agent="5.0 (Windows)" etag="6uhOvrnAf9K6Z1l-D4vm" version="13.8.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-28T08:12:51.695Z" agent="5.0 (Windows)" etag="xTfssJTTKjFZJ6DsTqHu" version="13.8.5" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -3494,7 +3494,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aflz5U0Og_2KdQ5OoDiE" name="Relationsschema">
-    <mxGraphModel dx="3666" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8169" dy="3052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-0" />
         <mxCell id="gfaQ38QmpzVvjtNMR--Q-1" parent="gfaQ38QmpzVvjtNMR--Q-0" />
@@ -3634,13 +3634,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ijnMIXvvNpPmT-n38mnC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="gfaQ38QmpzVvjtNMR--Q-1" source="TuK5P4iI3DAtYMO3qkGa-0" target="Rnb2l3TcjAAND2Nk574c-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1889" y="2830" />
+              <mxPoint x="-1889" y="2830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TuK5P4iI3DAtYMO3qkGa-0" value="Boardcomputer(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;FID&lt;/span&gt;, Gefahrene Kilometer, Mobilfunknetz, Fahrzeit)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
           <mxGeometry x="-1925" y="3040" width="380" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nD4JE9bK0Ifhy5xIXxVv-0" value="Reservierung(&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;/span&gt;&lt;u&gt;FID&lt;/u&gt;&lt;u&gt;,&lt;/u&gt; Benutzer, Zeit, Sonderwünsche)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gfaQ38QmpzVvjtNMR--Q-1" vertex="1">
-          <mxGeometry x="-2215" y="1090" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="emf2H_ZODe7FgerTZihy-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gfaQ38QmpzVvjtNMR--Q-1" target="SR6JfTTUePnxTQXpKmvV-0" edge="1">
           <mxGeometry relative="1" as="geometry">
