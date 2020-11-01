@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-01T09:17:58.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="O37a8zR4guFPCLNN1EoT" version="13.8.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-01T09:18:20.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="IP0K3-Hbskde1HvWRR8P" version="13.8.6" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Guidelines">
     <mxGraphModel dx="1806" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2274,7 +2274,7 @@
         <mxCell id="O-qFZsSNWt5M8IlRedC7-5" value="Relation" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="Jbo31aaUoDRXkJzaRvCV-1" vertex="1">
           <mxGeometry x="-680" y="307.5" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="kZrJPEvURR8KYgJJiBW2-0" value="Fahrzeugtyp" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Jbo31aaUoDRXkJzaRvCV-1">
+        <mxCell id="kZrJPEvURR8KYgJJiBW2-0" value="Auslastung" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Jbo31aaUoDRXkJzaRvCV-1">
           <mxGeometry x="100" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kZrJPEvURR8KYgJJiBW2-1" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Jbo31aaUoDRXkJzaRvCV-1" source="kZrJPEvURR8KYgJJiBW2-0" target="tD8isiov2DlJuCi4TBRD-1">
